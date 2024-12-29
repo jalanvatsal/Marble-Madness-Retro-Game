@@ -27,7 +27,14 @@ Assets directory should be in your home directory (e.g., /Users/fred)
 AND The Level Class and Level Data File section in the Marble Madness Spec specifies how to create your own levels for the game!)
 
 Example Gameplay Shots!
+
+
+
 <img width="711" alt="Screenshot 2567-12-29 at 16 00 17" src="https://github.com/user-attachments/assets/0ecc4d5c-298f-480d-a704-c9e8d24853e5" />
+
+
+
+
 <img width="585" alt="Screenshot 2567-12-29 at 16 01 16" src="https://github.com/user-attachments/assets/ac1d2b75-feb0-44a7-aed7-bda1e8511a4d" />
 
 
